@@ -13,7 +13,7 @@ const ATB = (props)=>{
     const slug =(props.location.href);
     
 	const disqusConfig = {
-	  shortname: 'elena-shea',
+	  shortname: 'elena-shea-m-d',
 	  config: { identifier:  12, slug}
     }
     
@@ -21,7 +21,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
-             <Helmet title="Abou the Book | Elena Shea"/>
+             <Helmet title="Abou the Book | Elena Shea M.D."/>
 		 		<Nav pathExt={props.path}/>
             
 		 		<Banner
@@ -48,7 +48,7 @@ const ATB = (props)=>{
                                     ebooks:{
                                         stratton : 'https://www.stratton-press.com/books/health-is-here/',
                                         barnes: 'https://www.barnesandnoble.com/w/health-is-here-elena-md-shea/1115424109?ean=9781648950827',
-                                        amazon :'https://www.amazon.com/Health-Here-M-D-Elena-Shea-ebook/dp/B08CJNFCNN/ref=sr_1_1?dchild=1&keywords=9781648950827&qid=1594307728&sr=8-1', 
+                                        amazon :'https://www.amazon.com/Health-Here-M-D-Elena-Shea-ebook/dp/B08CJNFCNN/ref=sr_1_1?dchild=1&keywords=9781648950827&qid=1608084793&sr=8-1', 
                                     },
                                     paperback:{
                                         amazon:'https://www.amazon.com/Health-Here-Elena-Shea-M/dp/1643450972/ref=sr_1_1?dchild=1&keywords=9781643450971&qid=1594651080&sr=8-1',

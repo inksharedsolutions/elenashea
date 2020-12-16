@@ -11,7 +11,7 @@ const MidMain = ()=>{
                 <div className="container-gt">
                     <h1>Featured</h1>
                     <p className="middle-params">
-                        Elena Shea has been featured numerous times on...
+                        Elena Shea M.D. has been featured numerous times on...
                     </p>
 
                     <div className="grid-template-four-col" id="logos-col">

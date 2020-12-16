@@ -9,9 +9,9 @@ const Footer = ()=>{
         <>  
             <footer className="footer-section">
                 <div className="container-gt" id="footer-info">
-                    <h1>Elena Shea</h1>
+                    <h1>Elena Shea M.D.</h1>
                     <p className="param-footer">
-                        Elena Shea loves to hear from readers. You can reach her via email. 
+                        Elena Shea M.D. loves to hear from readers. You can reach her via email. 
                         Feel free to send questions about writing, her works, interviews 
                         and other publicity matters.
                     </p> 

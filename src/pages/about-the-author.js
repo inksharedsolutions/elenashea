@@ -9,7 +9,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
-             <Helmet title="About the Author | Elena Shea"/>
+             <Helmet title="About the Author | Elena Shea M.D."/>
 		 		<Nav pathExt={props.path}/>
                  <Banner 
                  spanFirst={`About The`}
@@ -56,13 +56,13 @@ const ATB = (props)=>{
                             currently practices medicine in Arizona.
                             She has seen great benefit of simple herbal
                             medicines and foods throughout her
-                            career
+                            career.
                             </p>
 
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    Elena Shea
+                                    Elena Shea M.D.
                                 </span>
                             </p>
                             

@@ -33,7 +33,7 @@ const UpperMain =()=>{
 
                         <div classNames="content-img-wrapper">
                             <section className="content-wrapper-body">
-                                <h1>Elena Shea</h1>
+                                <h1>Elena Shea M.D.</h1>
                                 <span>Author & Writer</span>
 
                                 <p>

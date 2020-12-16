@@ -13,7 +13,7 @@ import Testimonial from "../components/testimonial"
 
 const IndexPage = (props) => (
   <Layout>
-  <Helmet title="Home | Elena Shea"/>
+  <Helmet title="Home | Elena Shea M.D."/>
       <Nav pathExt={props.path}/>
       <Banner/>
       <UpperMain/>
