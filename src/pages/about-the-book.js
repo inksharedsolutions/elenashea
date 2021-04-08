@@ -46,7 +46,7 @@ const ATB = (props)=>{
                                     `,
                                     
                                     ebooks:{
-                                        stratton : 'https://www.stratton-press.com/books/health-is-here/',
+                                        stratton : '',
                                         barnes: 'https://www.barnesandnoble.com/w/health-is-here-elena-md-shea/1115424109?ean=9781648950827',
                                         amazon :'https://www.amazon.com/Health-Here-M-D-Elena-Shea-ebook/dp/B08CJNFCNN/ref=sr_1_1?dchild=1&keywords=9781648950827&qid=1608084793&sr=8-1', 
                                     },
@@ -57,7 +57,8 @@ const ATB = (props)=>{
                                     }
                                 }}
                             />
-                            <div className="commentSection" >
+			    {/*Stratton Link: https://www.stratton-press.com/books/health-is-here/*/}
+			    <div className="commentSection" >
                                 <DiscussionEmbed {...disqusConfig} />
                             </div>
                     </div>	
